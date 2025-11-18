@@ -1,0 +1,3 @@
+entregadas: 3,4
+correcciones: 1,2
+pendientes: 5,6
