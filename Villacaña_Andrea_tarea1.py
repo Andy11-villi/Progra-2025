@@ -12,8 +12,17 @@ Print(resultado)
 
 #2
 Es clase “Int”, porque es un entero. Integer= “envuelve”
+### faltan todos los casos
+### a = "1"
+### b = 1.0
+### c = 1.5 + True
+### d = 1.5 + 2.5
+### e = 1 + True
+### f = False + True
+### g = True * 0
 
 #3
+### hay que hacer todos los casos
 Palabra= “andrea”
 Print(palabra.upper())
 ANDREA
@@ -24,6 +33,7 @@ Print( “f” + palabra [1: ] )
 
 
 #4
+### hay que describir todos los métodos
 sirven para realizar operaciones o manipular los datos de ese objeto, encapsulando su comportamiento.
 
 My_string1= “Lindo día”
