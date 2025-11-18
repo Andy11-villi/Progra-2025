@@ -1,4 +1,5 @@
  #1 Lista vacia del 1 al 50
+### no estás generando una lista
 for var in range(1,51):
     print(var)
 
